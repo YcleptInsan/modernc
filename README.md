@@ -1,0 +1,2 @@
+# modernc
+learning C 
