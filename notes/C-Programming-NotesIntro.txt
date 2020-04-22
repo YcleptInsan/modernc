@@ -1,0 +1,3 @@
+Chapter 1: Getting Started 
+
+cc hello-world.c: uses c complier to write to program to a.out. Using gcc with the -o flag will place output file into a new file specified. gcc -o (name) (original file name). Now we can call on the the new file name to be complied easily.
