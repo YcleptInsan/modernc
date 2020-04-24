@@ -2,9 +2,7 @@
 
 main()
 {
-	int c;
-	while ((c = getchar()) != EOF)
-	
-		printf("%d\n", c != EOF);
+
+	printf("The Value of \"EOF\" is = %d\n", EOF);
 
 }
